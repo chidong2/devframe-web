@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
+encoding//src/main/resources/properties/application-local.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/views/home/homeIndex.jsp=UTF-8
 encoding//src/main/webapp/WEB-INF/views/sample01/sample01List.jsp=UTF-8
 encoding/<project>=UTF-8
