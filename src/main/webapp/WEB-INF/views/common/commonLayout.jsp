@@ -13,10 +13,7 @@
 
 <title></title>
 
-<link href="/resources/css/common/common.css" rel="stylesheet" />
-
-<script src="/resources/libs/jquery/jquery-3.3.1.min.js"></script>
-<script src="/resources/js/common/common.js"></script>
+<c:import url="/WEB-INF/views/common/commonScript.jsp" />
 
 </head>
 
